@@ -25,7 +25,7 @@
 
 - <i>git 명령어</i>
     - git init : git 생성하기
-    ![git_init](img/git_init.png)
+    ![git_init](img/git_init.PNG)
     - git clone git_path : 코드가져오기
     - git checkout branch_name : 브랜치 선택하기
     - git checkout -t remote_path/branch_name : 원격 브랜치 선택하기
