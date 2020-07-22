@@ -25,13 +25,19 @@
 
 - <i>git 명령어</i>
     - git init : git 생성하기
-    ![git_init](img/git_init.png)
+    ![git_init](img/git_init.PNG)
     - git clone git_path : 코드가져오기
     - git checkout branch_name : 브랜치 선택하기
+    ![git_checkout](img/git_checkout.PNG)
     - git checkout -t remote_path/branch_name : 원격 브랜치 선택하기
     - git branch branch_name : 브랜치 생성하기
+    ![git_branch](img/git_branch.PNG)
     - git branch -r : 원격 브랜치 목록보기
     - git branch -a : 로컬 브랜치 목록보기
     - git branch -m branch_name change_branch_name : 브랜치 이름 바꾸기
     - git branch -d branch_name : 브랜치 삭제하기
-    - 
+    ![git_branch_delete](img/git_branch_delete.PNG)
+    - git add file_path : 수정한 코드 선택하기 ( git add * )
+    ![git_add](img/git_add.PNG)
+    - git commit -m “commit_description” : 선택한 코드 설명 적기 ( git commit -m “내용”)
+    ![git_commit](img/git_commit.PNG)
